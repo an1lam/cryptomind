@@ -7,7 +7,11 @@ This repo tracks my progress learning more about blockchain internals.
   or blockchains.
 
 ## Plan
-- [ ] Read & summarize major cryptocurrency white papers  
+- [ ] Read relevant background required to fully understand blockchain internals.
+  - [ ] [Protocols for public key cryptosystems](http://www.merkle.com/papers/Protocols.pdf) on Merkle Trees.
+  - [ ] [Hashcash](http://www.hashcash.org/papers/hashcash.pdf) on Proof-of-work.
+- [ ] Read & summarize major cryptocurrency papers  
+  - [ ] [Bmoney Paper](http://www.weidai.com/bmoney.txt)
   - [ ] Bitcoin White Paper  
   - [ ] Ethereum White Paper  
   - [ ] Zcash White Paper  

@@ -9,7 +9,7 @@ Author: Satoshi Nakamoto
 - H. Massias, X.S. Avila, and J.-J. Quisquater's 
   [Design of a secure timestamping service with minimal trust requirements](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=DEB67A072F93E39B60CE2E9436A2815F?doi=10.1.1.13.6228&rep=rep1&type=pdf)
   for how timestamp servers work.
-- Wei Dai's [Bmoney](http://www.eskimo.com/˜weidai/bmoney.txt) for the requirement that transactions
+- Wei Dai's [Bmoney](http://www.weidai.com/bmoney.txt) for the requirement that transactions
   be publicly announced.
 
 # Terms Not Covered By Background
