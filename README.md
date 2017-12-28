@@ -12,9 +12,10 @@ This repo tracks my progress learning more about blockchain internals.
   - [ ] [Hashcash](http://www.hashcash.org/papers/hashcash.pdf) on Proof-of-work.
 - [ ] Read & summarize major cryptocurrency papers  
   - [ ] [Bmoney Paper](http://www.weidai.com/bmoney.txt)
-  - [ ] Bitcoin White Paper  
+  - [X] [Bitcoin White Paper](notes/bitcoin-whitepaper.md)
   - [ ] Ethereum White Paper  
   - [ ] Zcash White Paper  
+  - [X] [IOTA White Paper](notes/iota-whitepaper.md)
 - [ ] Read secondary sources about bitcoin internals  
   - [ ] [How the bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)  
   - [ ] Chapters 1 & 2 of [Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802/index.html)  
