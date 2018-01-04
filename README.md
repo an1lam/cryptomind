@@ -19,7 +19,7 @@ This repo tracks my progress learning more about blockchain internals.
   - [ ] Zcash Whitepaper  
   - [X] [IOTA Whitepaper](notes/iota-whitepaper.md)
 - [ ] Read secondary sources about bitcoin internals  
-  - [ ] [Minimum Viable Blockchain](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)  
+  - [X] [Minimum Viable Blockchain](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/) [notes](notes/minimum-viable-blockchain.md)
   - [ ] [How the bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)  
   - [ ] Chapters 1 & 2 of [Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802/index.html)  
   - [ ] [Making Sense of Blockchain Smart Contracts](https://www.coindesk.com/making-sense-smart-contracts/)  
